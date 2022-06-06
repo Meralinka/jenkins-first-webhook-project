@@ -1,1 +1,1 @@
-print('hello world for jenkins')
+print('hello world')
